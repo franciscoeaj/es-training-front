@@ -1,0 +1,19 @@
+{
+  "name": "es-front",
+  "version": "1.0.0",
+  "description": "Front-end application for the Software Engineering course training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoeaj/es-training-front.git"
+  },
+  "author": "Francisco E. Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoeaj/es-training-front/issues"
+  },
+  "homepage": "https://github.com/franciscoeaj/es-training-front#readme"
+}
