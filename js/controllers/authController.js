@@ -42,10 +42,10 @@
 				console.log(res);
 
 				if (res.status === 201) {
-					alert('Usuário cadastrado com sucesso!');
+					alert('User created successfully!');
 					$state.go('login');
 				} else {
-					alert('Não foi possível registrar o usuário. Tente novamente com outro endereço de e-mail.');
+					alert('The user couldn\'t be created, please try with another email address.');
 				}
 			}, function error(res) {
 				console.log("An error ocurred while sending your POST request to /register");
